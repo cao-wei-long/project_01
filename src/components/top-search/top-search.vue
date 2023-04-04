@@ -6,7 +6,7 @@
             <div class="end">离 <span > {{ endDateStr }}</span></div>
         </div>
         <div class="keywords"> 
-            <input type="text" placeholder="关键字/位置/民宿">
+            <input type="text" placeholder="关键字/位置/民宿" value="lalala">
         </div>
         <div class="right">
             <van-icon name="search" size="25"/>
